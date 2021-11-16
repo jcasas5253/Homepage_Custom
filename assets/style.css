@@ -1,17 +1,9 @@
-/* html, body {
-    background-image: url("../assets/images/purple-space.jpg");
-    background-repeat: no-repeat;
+html, body {
+  background: url("../assets/images/download.jpg") no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Prompt', sans-serif;
+  overflow-x: hidden;
     font-family:'Gruppo', cursive;
-} */
-
-#myVideo {
-  z-index: -1;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  object-fit: cover;
 }
 
 .toggle {
